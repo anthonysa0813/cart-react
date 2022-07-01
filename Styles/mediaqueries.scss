@@ -1,0 +1,12 @@
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 500px) {
+  .gridImage {
+    grid-column: 1/7;
+  }
+
+  .gridInfo {
+    grid-column: 7/-1;
+  }
+}
